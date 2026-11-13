@@ -1,5 +1,5 @@
-# VanGutenberg LLC
+VanGutenberg LLC — GitHub Pages website
 
-GitHub Pages website. Upload the contents of this folder to the root of the existing repository. Keep the `CNAME` file. Contact information is intentionally a placeholder until confirmed.
+Upload the contents of this folder to the root of your existing GitHub repository. Keep CNAME with www.vangutenberg.com.
 
-Homepage updated: main banner uses assets/img/vangutenberg-homepage.png. Upload all extracted contents to the repository root. Keep CNAME.
+The homepage image uses the approved Clinical Practice Expansion design.
